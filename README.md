@@ -7,4 +7,4 @@ Build Docker Image:
 $ docker build -t <username>/java_rest .
 
 Jalankan Docker:
-$ docker run -d -p 8088:8090 <username>/java_rest
+$ docker run -d -p <host port>:8090 <username>/java_rest
