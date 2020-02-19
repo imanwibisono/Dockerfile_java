@@ -1,4 +1,5 @@
-# Dockerfile_java
+# gs_rest_service_java
+*service API "hello world" java sederhana*
 
 Ambil file dari github:
 ```
