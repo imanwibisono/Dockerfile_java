@@ -2,7 +2,7 @@
 
 Ambil file dari github:
 ```
-git clone https://github.com/imanwibisono/Dockerfile_java.git
+git clone https://github.com/imanwibisono/gs_rest_service_java.git
 ```
 Build Docker Image:
 ```
